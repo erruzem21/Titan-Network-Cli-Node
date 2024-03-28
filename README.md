@@ -48,7 +48,7 @@ https://test1.titannet.io/login
  Siteye gidip Kayıt olun, giriş yapın. Sırasıyla Resimlerdeki işlemleri yapın, en sonda identity code not alın.  
 
 ```console
-titan-edge bind --hash=identitycode https://api-test1.container1.titannet.io/api/v2/device/binding
+titan-edge bind --hash=<identitycode> https://api-test1.container1.titannet.io/api/v2/device/binding
 ```
 (Son olarak aldığınız identity codu, kodda ilgili yere yapıştırın.)
 
